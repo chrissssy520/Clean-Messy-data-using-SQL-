@@ -1,0 +1,209 @@
+transaction_id,product_id,customer_name,gender,customer_city,quantity,unit_price,total_amount,payment_method,branch,transaction_date
+1,8,  Carlo Santos  ,male,Pasig,4,95,380,cash,SaveMore Pasig,2023/01/03
+2,1,Jessa Ramos,Female,Makati,9,15,135,Credit Card,Puregold Cubao,2024/01/25
+3,5,  Erwin Garcia  ,male,Caloocan,4,38,152,GCASH,SM Megamall,2023/06/28
+4,24,VANESSA OCAMPO,female,Manila,8,65,520,Maya,SM Megamall,3-12-2023
+5,8,JESSA OCAMPO,MALE,Taguig,2,95,190,maya,SM North EDSA,22-04-2024
+6,18,mark flores,Female,Manila,4,72,288,Maya,SM North EDSA,27-04-2023
+7,3,  Jayson Mendoza  ,Female,Makati,4,42,168,credit card,SM North EDSA,2024/11/15
+8,24,arjay cruz,M,Pasay,9,65,585,credit card,Puregold Cubao,17-03-2023
+9,5,MARK SANTOS,male,Cebu City,3,38,114,Maya,SaveMore Pasig,2024/10/15
+10,22,ARJAY RAMOS,FEMALE,Pasay,2,115,230,Credit Card,SM North EDSA,2024-07-06
+11,25,Juan Ocampo,Female,Cebu City,3,58,174,cash,SM North EDSA,03/18/2024
+12,16,  Juan Flores  ,Female,Quezon City,1,75,75,GCASH,SM North EDSA,2023-10-03
+13,25,Rommel Reyes,MALE,Pasig,3,58,174,maya,SaveMore Pasig,18-04-2024
+14,15,  Liza Mendoza  ,male,Pasig,9,18,162,GCash,Robinsons Galleria,18-10-2023
+15,3,MARIBEL BAUTISTA,male,Pasig,1,42,42,Cash,SM North EDSA,11/16/2024
+16,19,Dennis Cruz,Female,Caloocan,8,38,304,maya,Puregold Cubao,2023-11-14
+17,24,Erwin Mendoza,M,Pasig,1,65,65,cash,SM Megamall,7-04-2023
+18,14,dennis torres,F,Manila,3,22,66,GCash,SM Megamall,2023-11-18
+19,14,mark bautista,MALE,Pasay,8,22,176,Maya,SM Megamall,2023/07/09
+20,22,Liza Mendoza,Male,Davao City,8,115,920,gcash,Robinsons Galleria,2024-01-02
+21,6,Rommel Ramos,male,Davao City,1,120,120,cash,Robinsons Galleria,2023-07-04
+22,2,Jessa Flores,FEMALE,Caloocan,10,22,220,credit card,SaveMore Pasig,23-11-2023
+23,5,Jessa Ocampo,F,Cebu City,5,38,190,cash,SM Megamall,2023-09-07
+24,3,  Arjay Cruz  ,female,Makati,4,42,168,CASH,Puregold Cubao,2024-11-04
+25,24,ARJAY REYES,Female,Taguig,9,65,585,gcash,SaveMore Pasig,21-11-2023
+26,2,  Archie Torres  ,Male,Makati,2,22,44,gcash,SM Megamall,9-11-2023
+27,18,Gladys Ramos,Male,Manila,1,72,72,CASH,SaveMore Pasig,5-07-2023
+28,12,LIZA GARCIA,M,Makati,4,48,192,cash,SM North EDSA,03/26/2023
+29,24,erwin santos,female,Manila,6,65,390,Maya,Robinsons Galleria,07/28/2023
+30,15,rommel bautista,Male,Quezon City,6,18,108,GCash,Robinsons Galleria,06/09/2024
+31,13,Arjay Garcia,female,Davao City,9,38,342,Cash,SM Megamall,01/04/2024
+32,14,  Erwin Garcia  ,Female,Manila,10,22,220,cash,Puregold Cubao,14-12-2023
+33,12,archie ramos,FEMALE,Marikina,7,48,336,GCASH,SaveMore Pasig,2024-09-10
+34,18,  Jayson Mendoza  ,female,Pasig,3,72,216,Maya,Robinsons Galleria,2023/05/10
+35,21,Erwin Flores,F,Davao City,6,32,192,maya,Robinsons Galleria,05/17/2023
+36,22,jayson reyes,Male,Quezon City,5,115,575,GCash,Robinsons Galleria,2023-08-20
+37,7,Gladys Mendoza,Male,Cebu City,7,135,945,GCash,Robinsons Galleria,2024-04-06
+38,8,Gladys Santos,FEMALE,Makati,2,95,190,maya,SaveMore Pasig,2024/09/15
+39,25,  Rommel Torres  ,F,Taguig,4,58,232,gcash,SaveMore Pasig,08/03/2024
+40,11,  Jessa Ocampo  ,M,Marikina,9,68,612,CASH,Robinsons Galleria,02/14/2023
+41,14,Jayson Ramos,Male,Taguig,1,22,22,Maya,Puregold Cubao,2024/01/12
+42,24,Nikko Mendoza,Female,Marikina,9,65,585,GCash,Puregold Cubao,1-08-2024
+43,15,jayson mendoza,M,Makati,3,18,54,Credit Card,SM Megamall,2023-11-14
+44,9,GLADYS CRUZ,FEMALE,Quezon City,7,55,385,maya,SM North EDSA,2024/07/09
+45,2,Rommel Santos,Male,Makati,6,22,132,cash,SM Megamall,01/20/2023
+46,22,Jessa Cruz,female,Quezon City,2,115,230,GCash,Puregold Cubao,20-10-2023
+47,19,MIGUEL OCAMPO,M,Pasig,1,38,38,credit card,Puregold Cubao,10/23/2023
+48,4,Carlo Ocampo,M,Caloocan,10,18,180,GCASH,SaveMore Pasig,21-09-2023
+49,4,Juan Mendoza,M,Cebu City,7,18,126,maya,Robinsons Galleria,10/26/2024
+50,24,Rommel Torres,female,Davao City,10,65,650,GCash,SM Megamall,2023/08/19
+51,16,NIKKO GARCIA,female,Taguig,6,75,450,GCash,SM North EDSA,23-10-2024
+52,7,Dennis Santos,Female,Manila,2,135,270,Maya,Puregold Cubao,2024/08/26
+53,13,mark ocampo,F,Caloocan,4,38,152,credit card,SM North EDSA,18-12-2024
+54,10,  Aldrin Torres  ,male,Pasay,5,60,300,GCash,SM North EDSA,04/24/2023
+55,20,Arjay Flores,Female,Cebu City,5,52,260,GCash,SM North EDSA,1-05-2023
+56,2,RYAN OCAMPO,male,Pasay,9,22,198,CASH,Puregold Cubao,2024-08-16
+57,9,JAYSON CRUZ,F,Davao City,8,55,440,cash,Puregold Cubao,2023-03-05
+58,4,liza reyes,Female,Davao City,9,18,162,credit card,SaveMore Pasig,2024/08/10
+59,20,Erwin Ocampo,Female,Makati,1,52,52,cash,Robinsons Galleria,8-03-2023
+60,1,dennis reyes,female,Taguig,7,15,105,credit card,Puregold Cubao,2023-05-23
+61,9,gladys reyes,male,Makati,10,55,550,GCash,Puregold Cubao,05/27/2023
+62,10,mark santos,F,Marikina,10,60,600,credit card,SM North EDSA,2024-12-10
+63,16,Arjay Ramos,FEMALE,Davao City,8,75,600,Cash,Puregold Cubao,8-02-2023
+64,19,  Maribel Santos  ,F,Pasay,1,38,38,CASH,Puregold Cubao,14-10-2023
+65,14,  Mark Torres  ,FEMALE,Marikina,6,22,132,cash,Robinsons Galleria,2024/05/22
+66,3,Dennis Santos,Male,Cebu City,6,42,252,cash,Puregold Cubao,2024/01/07
+67,21,Aldrin Flores,MALE,Quezon City,8,32,256,GCash,SM North EDSA,16-12-2024
+68,23,juan flores,M,Quezon City,3,85,255,Cash,SaveMore Pasig,2023-02-15
+69,17,  Ryan Torres  ,Female,Davao City,5,88,440,maya,Puregold Cubao,2023/07/07
+70,9,ARCHIE CRUZ,Male,Pasay,7,55,385,Credit Card,SM North EDSA,19-10-2024
+71,16,Ryan Torres,F,Davao City,6,75,450,Credit Card,Puregold Cubao,8-12-2023
+72,2,Nikko Bautista,MALE,Davao City,6,22,132,Maya,Puregold Cubao,2023/03/17
+73,4,Jayson Reyes,M,Taguig,9,18,162,Cash,Robinsons Galleria,08/26/2023
+74,21,Jayson Flores,FEMALE,Pasig,2,32,64,Credit Card,Puregold Cubao,2023/10/03
+75,14,LIZA BAUTISTA,MALE,Manila,2,22,44,cash,Puregold Cubao,11-01-2023
+76,14,  Liza Garcia  ,MALE,Marikina,3,22,66,Maya,SaveMore Pasig,02/20/2023
+77,19,Vanessa Bautista,female,Cebu City,3,38,114,gcash,Puregold Cubao,2024-05-22
+78,12,Miguel Reyes,F,Pasay,10,48,480,Maya,SM North EDSA,28-07-2023
+79,19,Carlo Bautista,M,Manila,6,38,228,gcash,SM Megamall,28-10-2023
+80,25,  Vanessa Torres  ,Female,Manila,4,58,232,GCASH,Robinsons Galleria,4-11-2023
+81,19,LIZA TORRES,FEMALE,Cebu City,6,38,228,cash,SM North EDSA,2023/04/05
+82,9,Aldrin Ramos,FEMALE,Pasig,3,55,165,maya,SM North EDSA,2024-02-05
+83,3,  Nikko Ramos  ,F,Caloocan,,42,,Credit Card,SM Megamall,13-10-2024
+84,1,Carlo Bautista,Female,Marikina,10,15,150,Credit Card,SM North EDSA,2024-12-10
+85,2,CARLO CRUZ,Female,Cebu City,5,22,110,cash,SM Megamall,08/12/2024
+86,14,erwin flores,female,Pasay,2,22,44,credit card,Puregold Cubao,2024-04-15
+87,22,JESSA GARCIA,M,Pasay,6,115,690,GCASH,SM Megamall,28-02-2023
+88,1,Mark Bautista,Female,Pasig,1,15,15,GCash,Robinsons Galleria,2023-10-07
+89,1,Jayson Cruz,female,Manila,5,15,75,CASH,Robinsons Galleria,11/28/2023
+90,8,  Ryan Santos  ,Male,Quezon City,10,95,950,CASH,SM North EDSA,09/04/2024
+91,17,  Rommel Torres  ,Male,Manila,10,88,880,Credit Card,Robinsons Galleria,1-11-2024
+92,22,Rommel Mendoza,male,Taguig,2,115,230,maya,SM Megamall,5-02-2023
+93,23,Vanessa Flores,female,Quezon City,6,85,510,credit card,SaveMore Pasig,2024/02/26
+94,15,Dennis Bautista,M,Taguig,4,18,72,maya,Puregold Cubao,2024-07-11
+95,3,Aldrin Cruz,male,Davao City,2,42,84,cash,Puregold Cubao,2-09-2023
+96,22,  Dennis Ramos  ,female,Cebu City,2,115,230,Maya,SM Megamall,19-02-2024
+97,8,Kevin Cruz,male,Cebu City,2,95,190,Credit Card,SM North EDSA,28-07-2023
+98,1,Vanessa Flores,MALE,Manila,10,15,150,gcash,SM Megamall,12-06-2024
+99,22,Miguel Cruz,Female,Makati,7,115,805,Cash,SM Megamall,2024/08/11
+100,25,  Aldrin Ocampo  ,MALE,Marikina,10,58,580,Cash,Robinsons Galleria,2023-05-15
+101,14,Rommel Flores,FEMALE,Davao City,5,22,110,Credit Card,SM Megamall,2023/05/22
+102,2,  Rommel Ramos  ,Male,Makati,4,22,88,credit card,SM Megamall,04/25/2024
+103,4,  Arjay Ocampo  ,MALE,Caloocan,1,18,18,Maya,Robinsons Galleria,2023/09/18
+104,14,MARK MENDOZA,M,Marikina,1,22,22,cash,SM North EDSA,2024/05/04
+105,20,juan garcia,M,Marikina,8,52,416,GCASH,SM Megamall,2023-07-19
+106,10,Archie Reyes,male,Makati,6,60,360,CASH,SM Megamall,06/24/2024
+107,9,jessa reyes,MALE,Davao City,4,55,220,CASH,SM Megamall,2024/10/25
+108,11,Gladys Flores,F,Caloocan,6,68,408,cash,Puregold Cubao,2-10-2024
+109,15,  Archie Reyes  ,male,Cebu City,,18,,GCASH,SM North EDSA,2024-08-19
+110,21,Maria Torres,MALE,Caloocan,4,32,128,maya,SaveMore Pasig,2024-02-26
+111,2,mark ramos,MALE,Marikina,4,22,88,maya,SaveMore Pasig,13-05-2024
+112,21,JAYSON FLORES,M,Davao City,6,32,192,cash,SaveMore Pasig,28-12-2024
+113,19,RYAN GARCIA,MALE,Caloocan,3,38,114,gcash,Puregold Cubao,2024-09-13
+114,21,RYAN RAMOS,female,Pasay,7,32,224,Cash,SM North EDSA,06/25/2023
+115,5,kevin bautista,Male,Makati,2,38,76,cash,SaveMore Pasig,13-10-2023
+116,6,Miguel Cruz,F,Pasig,8,120,960,GCASH,Robinsons Galleria,18-04-2024
+117,12,liza torres,M,Davao City,10,48,480,maya,SM North EDSA,2023/04/26
+118,21,RYAN OCAMPO,male,Pasay,8,32,256,Credit Card,SM Megamall,9-03-2023
+119,3,Archie Cruz,M,Pasig,4,42,168,GCASH,SM Megamall,2024-09-12
+120,8,  Nikko Reyes  ,MALE,Pasay,1,95,95,cash,SM North EDSA,05/27/2023
+121,20,Ryan Torres,Female,Taguig,1,52,52,Cash,SM North EDSA,02/25/2024
+122,2,JESSA OCAMPO,male,Manila,4,22,88,credit card,Puregold Cubao,2024-10-18
+123,23,archie flores,FEMALE,Quezon City,3,85,255,Cash,SaveMore Pasig,03/22/2024
+124,17,ARCHIE GARCIA,Male,Marikina,9,88,792,Credit Card,SaveMore Pasig,2024/01/21
+125,12,ALDRIN OCAMPO,FEMALE,Caloocan,2,48,96,cash,SaveMore Pasig,06/18/2023
+126,21,Miguel Torres,Male,Pasig,3,32,96,cash,Puregold Cubao,26-01-2023
+127,17,  Maria Garcia  ,female,Manila,7,88,616,Credit Card,Puregold Cubao,2023-05-12
+128,12,JAYSON OCAMPO,FEMALE,Caloocan,7,48,336,maya,Puregold Cubao,12/16/2024
+129,24,ARCHIE OCAMPO,female,Taguig,7,65,455,credit card,Robinsons Galleria,11-02-2023
+130,23,Liza Torres,F,Taguig,7,85,595,maya,SM North EDSA,2024-10-14
+131,12,Maria Reyes,MALE,Pasig,9,48,432,CASH,SM Megamall,2023/03/03
+132,19,Aldrin Garcia,FEMALE,Cebu City,1,38,38,maya,SM North EDSA,2023/10/05
+133,21,  Aldrin Mendoza  ,MALE,Taguig,5,32,160,cash,SM Megamall,2024/09/04
+134,20,arjay torres,male,Pasay,5,52,260,maya,Robinsons Galleria,08/06/2023
+135,23,  Mark Garcia  ,MALE,Quezon City,2,85,170,gcash,SM North EDSA,09/08/2024
+136,16,kevin cruz,F,Marikina,1,75,75,credit card,SM North EDSA,02/10/2023
+137,25,Rommel Ramos,FEMALE,Cebu City,7,58,406,cash,Robinsons Galleria,2024-08-22
+138,21,Aldrin Cruz,Male,Makati,10,32,320,CASH,Puregold Cubao,2023-05-06
+139,17,  Jayson Bautista  ,female,Quezon City,5,88,440,gcash,Robinsons Galleria,10/18/2024
+140,19,Archie Cruz,FEMALE,Davao City,3,38,114,credit card,SaveMore Pasig,2023-02-02
+141,14,Arjay Bautista,female,Marikina,10,22,220,maya,SaveMore Pasig,26-04-2024
+142,23,LIZA TORRES,F,Caloocan,1,85,85,Maya,Puregold Cubao,10/05/2024
+143,5,Jayson Garcia,Female,Pasig,6,38,228,cash,SM North EDSA,2023/05/15
+144,10,RYAN REYES,MALE,Makati,7,60,420,Maya,Robinsons Galleria,25-04-2024
+145,16,Rommel Ramos,F,Manila,5,75,375,cash,Puregold Cubao,10/12/2023
+146,20,Maria Ocampo,M,Marikina,8,52,416,Cash,SM Megamall,12/12/2024
+147,2,Aldrin Santos,female,Cebu City,10,22,220,GCASH,SaveMore Pasig,2024-09-15
+148,4,Arjay Flores,FEMALE,Cebu City,3,18,54,Maya,SM North EDSA,20-04-2023
+149,2,NIKKO RAMOS,F,Caloocan,1,22,22,GCASH,Puregold Cubao,06/20/2023
+150,24,Miguel Mendoza,F,Caloocan,5,65,325,Credit Card,SaveMore Pasig,12-01-2024
+151,10,Carlo Mendoza,Female,Davao City,1,60,60,gcash,SaveMore Pasig,2024-03-17
+152,2,nikko cruz,Male,Marikina,10,22,220,cash,Robinsons Galleria,2024/07/05
+153,25,Kevin Mendoza,Female,Caloocan,10,58,580,Cash,Robinsons Galleria,13-09-2024
+154,11,Miguel Torres,F,Taguig,9,68,612,gcash,SaveMore Pasig,05/18/2023
+155,23,  Jessa Ocampo  ,F,Davao City,4,85,340,maya,SM North EDSA,4-05-2024
+156,12,Dennis Mendoza,FEMALE,Pasig,3,48,144,gcash,SM Megamall,2024/12/16
+157,18,  Kevin Ramos  ,Female,Pasig,5,72,360,credit card,SaveMore Pasig,11/17/2023
+158,14,JESSA SANTOS,Male,Pasay,6,22,132,cash,Robinsons Galleria,11/16/2024
+159,10,  Kevin Ocampo  ,Female,Makati,1,60,60,cash,SaveMore Pasig,2023-07-27
+160,6,Maria Mendoza,male,Cebu City,5,120,600,Cash,SM North EDSA,21-08-2024
+161,17,archie torres,MALE,Manila,8,88,704,cash,SM North EDSA,2024/12/06
+162,22,Jayson Ocampo,FEMALE,Makati,4,115,460,Maya,Puregold Cubao,2024-11-04
+163,8,  Ryan Torres  ,female,Davao City,1,95,95,GCash,Puregold Cubao,24-10-2024
+164,23,  Juan Ocampo  ,female,Taguig,4,85,340,cash,Puregold Cubao,11/17/2024
+165,20,  Carlo Ocampo  ,MALE,Cebu City,4,52,208,CASH,Puregold Cubao,2024/07/23
+166,25,rommel ramos,F,Manila,4,58,232,credit card,SM Megamall,4-10-2023
+167,19,dennis ramos,F,Pasay,9,38,342,GCASH,SaveMore Pasig,2023-12-19
+168,2,Mark Ramos,Male,Marikina,8,22,176,Maya,Puregold Cubao,2024/12/01
+169,19,arjay santos,Male,Marikina,2,38,76,GCASH,SM Megamall,2024-01-10
+170,12,Miguel Cruz,male,Cebu City,7,48,336,Maya,Puregold Cubao,02/06/2024
+171,24,nikko ramos,F,Pasay,4,65,260,Cash,SM North EDSA,2024/04/08
+172,7,  Aldrin Cruz  ,Male,Davao City,,135,,Maya,SaveMore Pasig,02/04/2023
+173,22,Maria Torres,F,Cebu City,1,115,115,Cash,Puregold Cubao,01/05/2023
+174,11,Liza Bautista,female,Taguig,10,68,680,GCASH,Robinsons Galleria,07/10/2023
+175,24,Maria Ramos,F,Marikina,3,65,195,Maya,SaveMore Pasig,2024-11-22
+176,14,Archie Garcia,F,Makati,3,22,66,CASH,SaveMore Pasig,05/28/2023
+177,14,Gladys Santos,Female,Quezon City,7,22,154,CASH,Puregold Cubao,21-06-2023
+178,18,GLADYS GARCIA,Male,Cebu City,4,72,288,Maya,SaveMore Pasig,2023-10-24
+179,11,kevin torres,Female,Davao City,5,68,340,Cash,Robinsons Galleria,2024-04-23
+180,18,kevin mendoza,FEMALE,Pasay,6,72,432,Maya,Puregold Cubao,17-06-2024
+181,25,Gladys Reyes,M,Manila,6,58,348,GCASH,SM North EDSA,2023-12-05
+182,19,Arjay Ramos,Female,Caloocan,7,38,266,GCash,SM North EDSA,2023/08/18
+183,15,Arjay Torres,MALE,Manila,3,18,54,GCASH,Robinsons Galleria,2023/09/21
+184,22,ARCHIE SANTOS,Female,Cebu City,1,115,115,Maya,Robinsons Galleria,2023-01-07
+185,20,GLADYS GARCIA,Male,Taguig,10,52,520,maya,SM Megamall,2023/01/17
+186,17,DENNIS OCAMPO,male,Cebu City,7,88,616,CASH,SM Megamall,04/20/2023
+187,13,  Arjay Garcia  ,Female,Quezon City,2,38,76,Maya,Puregold Cubao,11/27/2024
+188,13,Maria Reyes,MALE,Caloocan,7,38,266,Cash,SM Megamall,2024-07-21
+189,2,Maribel Reyes,female,Cebu City,4,22,88,credit card,Puregold Cubao,2023-11-09
+190,11,maribel santos,M,Pasig,1,68,68,credit card,Robinsons Galleria,2024-03-19
+191,11,Maribel Mendoza,FEMALE,Quezon City,7,68,476,CASH,SM Megamall,2023-07-08
+192,20,Jayson Flores,female,Cebu City,7,52,364,GCASH,SM Megamall,2024/04/12
+193,22,nikko mendoza,female,Makati,10,115,1150,cash,SaveMore Pasig,02/09/2023
+194,11,Nikko Cruz,F,Quezon City,6,68,408,Cash,SM North EDSA,5-02-2024
+195,18,Miguel Mendoza,male,Caloocan,9,72,648,cash,SM Megamall,20-10-2023
+196,14,  Nikko Santos  ,MALE,Taguig,7,22,154,Credit Card,Robinsons Galleria,2023/03/09
+197,3,arjay torres,F,Pasay,3,42,126,Maya,SM North EDSA,2024-05-08
+198,15,vanessa flores,FEMALE,Marikina,2,18,36,Cash,Puregold Cubao,2024/08/11
+199,11,  Vanessa Cruz  ,FEMALE,Pasay,10,68,680,GCash,Puregold Cubao,06/10/2024
+200,13,  Maribel Bautista  ,male,Cebu City,5,38,190,Maya,SM North EDSA,11/25/2023
+2,1,Jessa Ramos,Female,Makati,9,15,135,Credit Card,Puregold Cubao,2024/01/25
+47,19,MIGUEL OCAMPO,M,Pasig,1,38,38,credit card,Puregold Cubao,10/23/2023
+30,15,rommel bautista,Male,Quezon City,6,18,108,GCash,Robinsons Galleria,06/09/2024
+46,22,Jessa Cruz,female,Quezon City,2,115,230,GCash,Puregold Cubao,20-10-2023
+14,15,  Liza Mendoza  ,male,Pasig,9,18,162,GCash,Robinsons Galleria,18-10-2023
+29,24,erwin santos,female,Manila,6,65,390,Maya,Robinsons Galleria,07/28/2023
+19,14,mark bautista,MALE,Pasay,8,22,176,Maya,SM Megamall,2023/07/09
+45,2,Rommel Santos,Male,Makati,6,22,132,cash,SM Megamall,01/20/2023
